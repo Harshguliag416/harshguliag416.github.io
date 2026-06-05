@@ -25,3 +25,15 @@ yarn-error.log*
 #user generated content
 public/profile.json
 public/blogs.json
+
+# Standard Professional Cleanup Rules
+node_modules/
+.pnp*
+.expo/
+dist-buildcheck/
+dist-buildcheck-2/
+.vite/
+Thumbs.db
+venv/
+__pycache__/
+*.pyc
